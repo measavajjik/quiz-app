@@ -1,0 +1,26 @@
+include: package:flutter_lints/flutter.yaml
+```
+- **"Commit changes"** दबाओ ✅
+
+---
+
+### Step ३ — lib folder upload करो
+- GitHub में **"Add file" → "Upload files"**
+- अपने PC से यह path खोलो:
+```
+ukDOC → U_STOR → AI & API → FLUTLAB → lib
+```
+- **lib folder के अंदर की सभी files और folders** को drag करके GitHub पर छोड़ो
+- ⚠️ lib folder को नहीं — **उसके अंदर का सब** drag करो
+- नीचे path में `lib/` लिखा दिखेगा — सही है
+- **"Commit changes"** दबाओ ✅
+
+---
+
+### Step ४ — FlutLab में Import करो
+GitHub repo तैयार होने के बाद —
+- FlutLab खोलो
+- **"Import"** या **Cloud icon** दबाओ
+- यह URL paste करो:
+```
+https://github.com/measavajjik/quiz-app
